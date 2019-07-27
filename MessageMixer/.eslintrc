@@ -1,0 +1,5 @@
+{
+    "extends": "airbnb"
+}
+
+// just to remember for using eslint: put in the airbnb config in the terminal:   npx install-peerdeps --dev eslint-config-airbnb
