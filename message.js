@@ -1,4 +1,4 @@
-const MessageMixer = require('./messageMixer.js');
+const MessageMixer = require('./messageMixer');
 
 
 function displayMessage() {

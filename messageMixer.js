@@ -1,6 +1,6 @@
 const MessageMixer ={};
 
-MessageMixer.countcountCharacter = function (inputString, inputCharacter) {
+MessageMixer.countCharacter = function (inputString, inputCharacter) {
   let count = 0;
   let string = inputString.toLowerCase();
   let character = inputCharacter.toLowerCase();
